@@ -1,4 +1,4 @@
-#IMC_ALUNO
+IMC_ALUNO
 
 Crie um pacote para armazenar as classes Pessoa e Aluno.
 
