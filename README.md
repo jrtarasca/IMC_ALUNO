@@ -1,4 +1,8 @@
-IMC_ALUNO
+# Título do projet
+
+Crie um pacote para armazenar as classes Pessoa e Aluno.
+
+## 🚀 Começando
 
 Crie um pacote para armazenar as classes Pessoa e Aluno.
 
@@ -13,14 +17,16 @@ Calcular o IMC (Índice de Massa Corporal);
 Avaliar o aluno onde nota >= 5 e presença >= 75% → Aprovado.
 Crie uma classe chamada Main que possui o método main() para testar as demais classes.
 
-🚀 Começando
-Pode colocar o enunciado para o desenvolvimento do projeto
+### 📋 Pré-requisitos
 
-📋 Pré-requisitos
 Vscode
 
-🛠️ Construído com
+``
+
+## 🛠️ Construído com
+
 Vscode
 
-✒️ Autores
-José Tarasca - Trabalho Inicial - IMC_Aluno
+## ✒️ Autores
+
+* **José Tarasca** - *Trabalho Inicial* - IMC_ALUNO
