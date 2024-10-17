@@ -1,5 +1,4 @@
-#IMC_ALUNO
-🚀 Começando
+IMC_ALUNO
 Crie um pacote para armazenar as classes Pessoa e Aluno.
 
 Uma pessoa tem os atributos nome, cpf, peso e altura.
@@ -12,11 +11,15 @@ Verificar cpf;
 Calcular o IMC (Índice de Massa Corporal);
 Avaliar o aluno onde nota >= 5 e presença >= 75% → Aprovado.
 Crie uma classe chamada Main que possui o método main() para testar as demais classes.
-Teste as classes criando vários objetos.
+
+🚀 Começando
+Pode colocar o enunciado para o desenvolvimento do projeto
 
 📋 Pré-requisitos
 Vscode
+
 🛠️ Construído com
 Vscode
+
 ✒️ Autores
-José Tarasca - Herança_1
+José Tarasca - Trabalho Inicial - IMC_Aluno
